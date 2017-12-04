@@ -1,0 +1,44 @@
+{"frames": {
+
+"Backgound.png":
+{
+	"frame": {"x":2,"y":2,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+"Loading.png":
+{
+	"frame": {"x":804,"y":2,"w":176,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":44},
+	"sourceSize": {"w":176,"h":44}
+},
+"chap_1.png":
+{
+	"frame": {"x":285,"y":604,"w":281,"h":288},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":288},
+	"sourceSize": {"w":281,"h":288}
+},
+"chap_1_pressed.png":
+{
+	"frame": {"x":2,"y":604,"w":281,"h":288},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":288},
+	"sourceSize": {"w":281,"h":288}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "background.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:31df78ad1f7f007868c1b51410a675fb$"
+}
+}
